@@ -1,3 +1,3 @@
 ## Welcome to the Sensor Tasking API Specification!
 
-We wrapped up the third sprint in Berlin and will update this space soon.
+This organization contains repositories for the STAPI specification and the open-source tooling for creating and consuming APIs.
